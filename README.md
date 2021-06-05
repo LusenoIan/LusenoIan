@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @LusenoIan
 - 👀 I’m interested in Website Developing and Maintenance
-- 🌱 I’m currently learning Bachelor of Business Information Technology at Strathmore University
+- 🌱 Currently learning Bachelor of Business Information Technology at Strathmore University
 - 💞️ I’m looking to collaborate on Website Developing with both Senior and Junior Developers 
 - 📫 How to reach me email:ashitibaian@gmail.com/ian.luseno@strathmore.edu
 
